@@ -3,7 +3,7 @@
 Keep mongodb installed in machine and run 'mongod, command to make the db up.
 
 ##Steps for running backend:
-Clone the repository
+[] Clone the repository
 Go to marknote/remote-job-api directory
 Run 'npm i' command to install dependencies
 Run yarn develop to run the strapi app
